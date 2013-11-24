@@ -21,8 +21,8 @@ NeoBundle "akiyan/vim-textobj-erb"
 ```
 
 <dl>
-<dt>vaE</dt>
+<dt>vae</dt>
 <dd><% if example >= 1 %></dd>
-<dt>viE</dt>
+<dt>vie</dt>
 <dd>if example >= 1</dd>
 </dl>

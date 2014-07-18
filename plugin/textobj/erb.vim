@@ -4,7 +4,7 @@ endif
 
 call textobj#user#plugin('erb', {
 \   'erbtag': {
-\       '*pattern*': ['<%\(=\|-\)\?[[:blank:][:return:]\n]*','[[:blank:][:return:]\n]*%>'],
+\       '*pattern*': ['<%\(=\|-\)\?[[:blank:][:return:]\n]*','[[:blank:][:return:]\n]*-\?%>'],
 \       'select-a': 'ae',
 \       'select-i': 'ie',
 \   }
